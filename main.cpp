@@ -62,8 +62,6 @@ private:
 
 };
 
-
-
 void displayGrades() {
     cout << "1. Display Course List" << endl;
     cout << "2. " << endl;
@@ -160,8 +158,6 @@ int main() {
     //        addClass();
         }
     }
-
-
 
     return 0;
 }
