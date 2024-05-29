@@ -24,6 +24,7 @@ public:
         m_grade = classGrade;
         m_credits = classCredit;
     }
+
     void setClassName(string className) {
         m_className = className;
 
