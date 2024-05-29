@@ -1,0 +1,3 @@
+C:/Users/jmain/CLionProjects/CGPA/cmake-build-debug/CMakeFiles/CGPA.dir
+C:/Users/jmain/CLionProjects/CGPA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jmain/CLionProjects/CGPA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
