@@ -136,6 +136,8 @@ int main() {
             }
         }
         else if (menuNum == 2) {
+
+            cout <<"TEST"<<endl;
             string usrClassName = " ";
             char usrGrade = NULL;
             int usrCredits = NULL;
