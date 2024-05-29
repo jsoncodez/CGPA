@@ -9,9 +9,6 @@ using namespace std;
 // OBJ FOR DIFFERENT ENTRIES
 
     // START WITH VECTORS THOUGH, TUPLES
-
-
-
 class aClass {
 public:
     aClass() {
